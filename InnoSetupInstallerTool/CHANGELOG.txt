@@ -1,0 +1,14 @@
+=====================================
+InnoSetup Installer Tool - ChangeLog
+=====================================
+
+Version 1.0:
+
+Initial release. Core functionality to automate Unity builds and Inno Setup compilation, with the following features:
+
+- GUI for configuring paths and options.
+- Integration with Unity Player Settings for automatic data retrieval.
+- Validation checks for all required paths and file existence before building the installer.
+- Included a "Reset All Paths" feature for user convenience.
+- Support for custom setup icons and EULA files.
+- Automated build process that combines Unity build and Inno Setup script compilation into a single workflow.

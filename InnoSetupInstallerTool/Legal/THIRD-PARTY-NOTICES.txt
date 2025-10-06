@@ -1,0 +1,24 @@
+============================================================
+THIRD-PARTY NOTICES
+============================================================
+
+This Asset uses the following third-party components.
+
+------------------------------------------------------------
+1. Inno Setup Compiler
+------------------------------------------------------------
+
+Component Name: Inno Setup Compiler (iscc.exe)
+Source: https://jrsoftware.org/
+Included Files: ISCC.exe
+License Type: Inno Setup License
+
+This component is provided under the terms of the Inno Setup License, a copy of which is included in this package as 'InnoSetup-License.txt'.
+
+The Inno Setup License is a permissive license that allows free use, including for commercial applications.
+
+In compliance with the Inno Setup License:
+- The origin of this software is not misrepresented; we do not claim to have written the original software.
+- All binary redistributions retain the required copyright notices and web site addresses.
+
+============================================================
